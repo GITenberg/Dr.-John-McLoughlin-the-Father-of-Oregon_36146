@@ -1,0 +1,31 @@
+_repo: Dr.-John-McLoughlin-the-Father-of-Oregon_36146
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holman, Frederick V.
+    aliases:
+    - Holman, F. V. (Frederick V.)
+    - Holman, Frederick Van Vorhees
+    birthdate: 1852
+    deathdate: 1927
+    gutenberg_agent_id: '38103'
+    url: http://www.gutenberg.org/2009/agents/38103
+description: ''
+gutenberg_issued: '2011-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36146'
+  lccn: '07031427'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'McLoughlin, John, 1784-1857'
+- !lcsh 'Oregon Territory -- History'
+- !lcc 'F850.5'
+title: Dr. John McLoughlin, the Father of Oregon
+url: http://www.gutenberg.org/ebooks/36146
